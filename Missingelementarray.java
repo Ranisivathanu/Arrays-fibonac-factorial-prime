@@ -7,7 +7,7 @@ public class Missingelementarray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 int[] number = {6, 3, 2, 4, 1};
+		 int[] number = {1,2,3,4,7,6,8};
 	        Arrays.sort(number);
 	        System.out.println("Missing Number is:" + getMissingNumber(number));
 	    }
